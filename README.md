@@ -60,14 +60,15 @@ Results-driven developer building scalable web and intelligent systems using Rea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Akash8959&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash8959&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Akash8959&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash8959&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 ## 🌐 Connect With Me
