@@ -233,11 +233,15 @@ A backend service that reconciles customer identities across multiple contact re
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash8959&theme=tokyo-night&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Akash8959&theme=tokyo-night&hide_border=true&area=true"
+    alt="Akash's GitHub Activity Graph"
+  />
 </p>
+
 
 ---
 
