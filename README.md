@@ -220,15 +220,24 @@ A backend service that reconciles customer identities across multiple contact re
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash8959&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash8959&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Akash8959&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash8959&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash8959&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Akash8959&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -241,7 +250,6 @@ A backend service that reconciles customer identities across multiple contact re
     alt="Akash's GitHub Activity Graph"
   />
 </p>
-
 
 ---
 
