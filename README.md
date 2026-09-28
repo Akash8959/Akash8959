@@ -247,7 +247,7 @@ I focus on understanding **why** a system is being built, not just **how** to co
 # 🌐 Connect With Me
 
 <p>
-  <a href="mailto:akashhg1293@gmail.com">
+  <a href="mailto:akashhg203@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -259,7 +259,6 @@ I focus on understanding **why** a system is being built, not just **how** to co
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ## ⚡ A Little About Me
