@@ -1,234 +1,279 @@
-<h1 align="center">Hi 👋, I'm Akash H G</h1>
+<h1 align="center">Hi 👋 I'm Akash H G</h1>
 
-<h3 align="center">
-MCA Graduate • Full Stack Developer • AI/ML Engineer
-</h3>
+<h3 align="center">Full Stack Developer | AI & ML Engineer | Backend Developer</h3>
 
 <p align="center">
-  Building practical software solutions with modern web technologies, backend systems, databases and AI.
+  Building real-world applications with modern web technologies, backend systems, databases and AI.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Professional Summary
 
-I'm an **MCA graduate** passionate about building practical and scalable software applications.
+I'm an **MCA graduate** focused on building practical software solutions using **Python, TypeScript, JavaScript, React, FastAPI, SQL and AI/ML technologies**.
 
-My interests are centered around **full-stack development, backend engineering, artificial intelligence, machine learning, and data systems**.
+I enjoy working across the complete development lifecycle — from understanding requirements and designing architecture to building APIs, integrating databases, implementing AI systems and deploying applications.
 
-* 🎓 MCA Graduate — 2026
-* 💻 Full Stack Development
-* 🤖 AI / ML & Generative AI
-* 🧠 RAG & LLM Applications
-* 🐍 Python Backend Development
-* ⚛️ React & Next.js
-* 🗄️ Database & API Development
-* 🐳 Docker & Application Deployment
-* 🐧 Linux
-* 📍 Bengaluru, Karnataka, India
+My current focus is on **Full Stack Development, Backend Engineering, Generative AI, RAG systems and Cloud technologies**.
 
 ---
 
-## 🛠️ Technical Skills
+## 💼 Open to Roles
 
-### Languages
-
-`Python` `TypeScript` `JavaScript` `Java` `SQL`
-
-### Frontend
-
-`React` `Next.js` `TypeScript` `Tailwind CSS` `HTML` `CSS`
-
-### Backend
-
-`FastAPI` `Flask` `Node.js` `REST APIs`
-
-### Databases
-
-`PostgreSQL` `MySQL` `SQLite` `ChromaDB`
-
-### AI / ML
-
-`TensorFlow` `Keras` `OpenCV` `Scikit-learn` `Pandas` `NumPy`
-
-### Generative AI
-
-`LLMs` `RAG` `Ollama` `Prompt Engineering` `Embeddings` `Vector Search`
-
-### Tools
-
-`Git` `GitHub` `Docker` `Docker Compose` `VS Code` `Linux`
+**Software Developer • Full Stack Developer • Backend Developer • AI/ML Engineer • Generative AI Engineer • Data Analyst**
 
 ---
 
-# 🚀 Featured Projects
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### ⚙️ Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+
+### 🤖 AI / ML / Computer Vision
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+### 🧠 Generative AI
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM_Applications-111827?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge)
+
+### 🧰 Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+# 📌 Featured Projects
 
 ## 🧠 Enterprise AI Knowledge Assistant
 
-An enterprise-focused RAG knowledge management system that allows users to upload documents and interact with their organizational knowledge using AI.
+**RAG-based enterprise knowledge management system**
 
-### Features
+A full-stack AI application that allows users to upload organizational documents and interact with them through an AI-powered knowledge assistant.
 
-* User authentication with JWT
-* PDF, TXT and DOCX document ingestion
-* Document processing and chunking
-* Sentence Transformer embeddings
-* Vector search using ChromaDB
-* Department-based document filtering
-* RAG-powered AI chat
-* Source citations
-* Document management
-* Dashboard statistics
+### ✨ Features
 
-### Tech Stack
+* 🔐 JWT-based authentication
+* 📄 PDF, TXT and DOCX document ingestion
+* ✂️ Intelligent document chunking
+* 🧠 Sentence Transformer embeddings
+* 🔎 Semantic vector search
+* 🗃️ ChromaDB vector storage
+* 🏢 Department-based filtering
+* 🤖 RAG-powered AI conversations
+* 📚 Verified source citations
+* 🗑️ Document management and deletion
+* 📊 Knowledge dashboard
 
-`Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `SQLAlchemy` `SQLite` `ChromaDB` `Sentence Transformers` `RAG`
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `SQLAlchemy` `SQLite` `ChromaDB` `Sentence Transformers` `RAG`
 
 ---
 
 ## 🤖 ConvoBuilder
 
-A full-stack **Conversational AI Bot Builder** for creating configurable AI chatbots.
+**Full-stack Conversational AI Bot Builder**
 
-### Features
+A platform for creating configurable AI chatbots using custom conversation configurations and local LLMs.
 
-* Configurable bot conversations
-* Intent-based responses
-* Custom system prompts
-* Conversation history
-* Fallback responses
-* Escalation triggers
-* LLM-powered responses
-* Persistent conversation storage
-* REST API backend
+### ✨ Features
 
-### Tech Stack
+* 🤖 Configurable AI bots
+* 🎯 Intent-based conversation handling
+* 📝 Custom system prompts
+* 💬 Conversation history
+* 🔄 LLM-powered responses
+* 🚨 Escalation triggers
+* 🛟 Fallback responses
+* 🗄️ Persistent conversation storage
+* 🔌 REST API backend
 
-`FastAPI` `Python` `PostgreSQL` `SQLAlchemy` `Alembic` `Ollama` `LLM`
+**Tech:** `FastAPI` `Python` `PostgreSQL` `SQLAlchemy` `Alembic` `Ollama` `LLM`
 
 ---
 
-## 😊 Facial Expression Emotion Analysis
+## 😀 Facial Expression Emotion Analysis
 
-A computer vision application that uses deep learning to recognize human facial emotions.
+**CNN-based Facial Emotion Recognition System**
 
-### Features
+A computer vision application that detects faces and classifies human emotions using a trained CNN model.
 
-* Real-time face detection
-* Facial image preprocessing
-* CNN-based emotion classification
-* Model training and prediction
-* Flask web application
+### ✨ Features
 
-### Tech Stack
+* 📷 Real-time face detection
+* 🧠 CNN-based emotion classification
+* 🔬 Image preprocessing
+* 🎯 Model training and prediction
+* 🌐 Flask web application
 
-`Python` `TensorFlow` `Keras` `OpenCV` `CNN` `Flask`
+**Tech:** `Python` `TensorFlow` `Keras` `OpenCV` `CNN` `Flask`
 
 ---
 
 ## 🏠 Home Value Prediction
 
-A machine learning application that predicts property prices using housing data.
+**Machine Learning Property Price Prediction System**
 
-### Features
+A machine learning application that predicts property values using housing data and regression techniques.
 
-* Data preprocessing
-* Feature analysis
-* Random Forest regression
-* Property price prediction
-* Location visualization
-* Web-based prediction interface
+### ✨ Features
 
-### Tech Stack
+* 📊 Data preprocessing
+* 🔎 Feature analysis
+* 🌲 Random Forest Regression
+* 💰 Property price prediction
+* 🗺️ Location visualization
+* 🌐 Web-based prediction interface
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Random Forest` `Flask` `Leaflet.js`
+**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `Random Forest` `Flask` `Leaflet.js`
 
 ---
 
 ## 🔗 Bitespeed Identity Reconciliation
 
-A backend service designed to reconcile customer identities across multiple contact records.
+**Backend Identity Reconciliation API**
 
-### Tech Stack
+A backend service that identifies and reconciles customer records across multiple contact details.
 
-`Node.js` `TypeScript` `PostgreSQL` `REST API`
+### ✨ Features
+
+* 🔗 Contact identity reconciliation
+* 🗄️ PostgreSQL database
+* 🔌 REST API
+* ⚙️ TypeScript backend
+* 🚀 Cloud deployment
+
+**Tech:** `Node.js` `TypeScript` `PostgreSQL` `REST API`
+
+---
+
+# 🎓 Education
+
+### Master of Computer Applications — MCA
+
+**2026 Graduate**
+
+Focused on software development, databases, programming, data analytics and emerging technologies.
 
 ---
 
 # 🏆 Certifications
 
-* **Deloitte — Data Analytics Job Simulation**
-* **Cisco — Introduction to Cyber Security**
-* **Cisco NetAcad — Data Analytics Essentials**
+📊 **Deloitte — Data Analytics Job Simulation**
+
+🔐 **Cisco — Introduction to Cyber Security**
+
+📈 **Cisco NetAcad — Data Analytics Essentials**
 
 ---
 
 # 🎯 Current Focus
 
-I'm currently improving my skills in:
+I'm currently working on improving my skills in:
 
-* Full Stack Development
-* Backend Engineering
-* FastAPI
-* React & Next.js
-* PostgreSQL
-* Generative AI
-* Retrieval-Augmented Generation
-* LLM Application Development
-* Docker
-* Linux
-* Cloud Deployment
+* ⚛️ Full Stack Development
+* 🐍 Python Backend Engineering
+* ⚡ FastAPI
+* ⚛️ React & Next.js
+* 🗄️ PostgreSQL & Database Design
+* 🤖 Generative AI
+* 🔎 Retrieval-Augmented Generation
+* 🧠 LLM Application Development
+* 🐳 Docker & Containerization
+* 🐧 Linux
+* ☁️ Cloud Deployment
 
 ---
 
-# 🧠 Development Approach
-
-I believe in understanding the problem before writing the code.
+# 💡 How I Approach Software Development
 
 ```text
-Understand
-    ↓
-Define Requirements
-    ↓
-Design Architecture
-    ↓
-Build
-    ↓
-Test
-    ↓
-Deploy
-    ↓
-Improve
+💭 Understand the Problem
+          ↓
+📋 Define Requirements
+          ↓
+🏗️ Design Architecture
+          ↓
+💻 Build the Application
+          ↓
+🧪 Test & Debug
+          ↓
+🚀 Deploy
+          ↓
+🔄 Improve
 ```
 
-My goal is to build software that solves **real-world problems**, rather than simply creating projects for demonstration.
+I focus on understanding **why** a system is being built, not just **how** to code it.
 
 ---
 
-# 🤝 Open to Opportunities
+# 🌐 Connect With Me
 
-I'm interested in opportunities related to:
+<p>
+  <a href="mailto:akashhg1293@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-* Software Development
-* Full Stack Development
-* Backend Development
-* AI / ML Engineering
-* Generative AI
-* Data Analytics
-* Cloud & Backend Engineering
+  <a href="https://www.linkedin.com/in/akash-h-g-43532a2b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Akash8959">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 📫 Connect With Me
+## ⚡ A Little About Me
 
-**Email:** [akashhg1293@gmail.com](mailto:akashhg1293@gmail.com)
-
-**LinkedIn:** [Akash H G](https://www.linkedin.com/in/akash-h-g-43532a2b4/)
-
-**GitHub:** [Akash8959](https://github.com/Akash8959)
+```text
+💻 Developer
+🤖 AI/ML Enthusiast
+🧠 Problem Solver
+📚 Continuous Learner
+🚀 Project Builder
+```
 
 ---
 
 <p align="center">
-  <b>🚀 Building • Learning • Improving</b>
+  <b>🚀 Building real-world software. Learning every day. Improving continuously.</b>
 </p>
