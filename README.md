@@ -5,124 +5,59 @@ MCA Graduate • Full Stack Developer • AI/ML Engineer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Akash8959">
-    <img src="https://komarev.com/ghpvc/?username=Akash8959&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Engineer;Building+Real-World+Applications;Python+%7C+React+%7C+FastAPI+%7C+SQL;Always+Learning+%26+Building&center=true&width=600&height=45">
+  Building practical software solutions with modern web technologies, backend systems, databases and AI.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an **MCA graduate** passionate about building practical software solutions that combine **modern web development, backend systems, databases, and AI/ML**.
+I'm an **MCA graduate** passionate about building practical and scalable software applications.
 
-I enjoy taking an idea from **requirements → architecture → development → testing → deployment** and turning it into a working application.
+My interests are centered around **full-stack development, backend engineering, artificial intelligence, machine learning, and data systems**.
 
 * 🎓 MCA Graduate — 2026
-* 💻 Focused on **Full Stack Development & AI Engineering**
-* 🤖 Building applications with **Generative AI, RAG, NLP and Machine Learning**
-* 🧠 Interested in solving real-world problems through software
-* 🛠️ Comfortable working with **Python, TypeScript, JavaScript, React and FastAPI**
-* 🗄️ Working with **PostgreSQL, SQLite, MySQL and vector databases**
-* 🚀 Interested in building production-ready applications
-* 📍 Based in Bengaluru, Karnataka, India
+* 💻 Full Stack Development
+* 🤖 AI / ML & Generative AI
+* 🧠 RAG & LLM Applications
+* 🐍 Python Backend Development
+* ⚛️ React & Next.js
+* 🗄️ Database & API Development
+* 🐳 Docker & Application Deployment
+* 🐧 Linux
+* 📍 Bengaluru, Karnataka, India
 
 ---
 
-## 🚀 What I Build
+## 🛠️ Technical Skills
 
-```text
-Frontend Applications
-        ↓
-React / Next.js / TypeScript
-        ↓
-Backend APIs
-        ↓
-FastAPI / Flask / Node.js
-        ↓
-Databases & Vector Stores
-        ↓
-PostgreSQL / SQLite / ChromaDB
-        ↓
-AI / ML Systems
-        ↓
-LLMs / RAG / NLP / Computer Vision
-```
+### Languages
 
----
+`Python` `TypeScript` `JavaScript` `Java` `SQL`
 
-## 🛠️ Tech Stack
+### Frontend
 
-### 💻 Languages
+`React` `Next.js` `TypeScript` `Tailwind CSS` `HTML` `CSS`
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+### Backend
 
-### 🎨 Frontend
+`FastAPI` `Flask` `Node.js` `REST APIs`
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+### Databases
 
-### ⚙️ Backend
+`PostgreSQL` `MySQL` `SQLite` `ChromaDB`
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+### AI / ML
 
-### 🤖 AI / Machine Learning
+`TensorFlow` `Keras` `OpenCV` `Scikit-learn` `Pandas` `NumPy`
 
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+### Generative AI
 
-### 🧠 Generative AI
+`LLMs` `RAG` `Ollama` `Prompt Engineering` `Embeddings` `Vector Search`
 
-<p>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM_Applications-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge"/>
-</p>
+### Tools
 
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge"/>
-</p>
-
-### 🧰 Tools & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+`Git` `GitHub` `Docker` `Docker Compose` `VS Code` `Linux`
 
 ---
 
@@ -130,21 +65,20 @@ LLMs / RAG / NLP / Computer Vision
 
 ## 🧠 Enterprise AI Knowledge Assistant
 
-An enterprise-focused **RAG knowledge management system** that allows users to upload company documents and interact with their knowledge base using AI.
+An enterprise-focused RAG knowledge management system that allows users to upload documents and interact with their organizational knowledge using AI.
 
-### Key Features
+### Features
 
-* 🔐 User authentication with JWT
-* 📄 PDF, TXT and DOCX document ingestion
-* ✂️ Overlap-based document chunking
-* 🧠 Sentence Transformer embeddings
-* 🔎 Semantic/vector search
-* 🗃️ ChromaDB vector storage
-* 🏢 Department-based document filtering
-* 🤖 RAG-powered AI chat
-* 📚 Source citations for generated answers
-* 🗑️ Synchronized document deletion
-* 📊 Dashboard statistics
+* User authentication with JWT
+* PDF, TXT and DOCX document ingestion
+* Document processing and chunking
+* Sentence Transformer embeddings
+* Vector search using ChromaDB
+* Department-based document filtering
+* RAG-powered AI chat
+* Source citations
+* Document management
+* Dashboard statistics
 
 ### Tech Stack
 
@@ -152,20 +86,21 @@ An enterprise-focused **RAG knowledge management system** that allows users to u
 
 ---
 
-## 🤖 ConvoBuilder — Conversational AI Bot Builder
+## 🤖 ConvoBuilder
 
-A full-stack platform for creating configurable AI chatbots using conversation configurations and LLMs.
+A full-stack **Conversational AI Bot Builder** for creating configurable AI chatbots.
 
-### Key Features
+### Features
 
-* 🤖 Configurable AI bots
-* 🧩 Intent-based conversation configuration
-* 📝 Custom system prompts
-* 💬 Conversation history
-* 🚨 Escalation trigger handling
-* 🔄 LLM-powered responses
-* 🗄️ Persistent conversation storage
-* 🔌 FastAPI backend API
+* Configurable bot conversations
+* Intent-based responses
+* Custom system prompts
+* Conversation history
+* Fallback responses
+* Escalation triggers
+* LLM-powered responses
+* Persistent conversation storage
+* REST API backend
 
 ### Tech Stack
 
@@ -175,15 +110,15 @@ A full-stack platform for creating configurable AI chatbots using conversation c
 
 ## 😊 Facial Expression Emotion Analysis
 
-A computer vision and deep learning application for detecting facial expressions and classifying emotions.
+A computer vision application that uses deep learning to recognize human facial emotions.
 
-### Key Features
+### Features
 
-* 📷 Real-time face detection
-* 🧠 CNN-based emotion classification
-* 🔬 Image preprocessing
-* 🎯 Model prediction pipeline
-* 🌐 Flask-based application
+* Real-time face detection
+* Facial image preprocessing
+* CNN-based emotion classification
+* Model training and prediction
+* Flask web application
 
 ### Tech Stack
 
@@ -193,16 +128,16 @@ A computer vision and deep learning application for detecting facial expressions
 
 ## 🏠 Home Value Prediction
 
-A machine learning application that predicts property prices using structured housing data.
+A machine learning application that predicts property prices using housing data.
 
-### Key Features
+### Features
 
-* 📊 Data preprocessing
-* 🤖 Random Forest Regression
-* 📈 Model prediction
-* 🗺️ Location visualization
-* 🌐 Flask web application
-* 🗺️ Leaflet.js integration
+* Data preprocessing
+* Feature analysis
+* Random Forest regression
+* Property price prediction
+* Location visualization
+* Web-based prediction interface
 
 ### Tech Stack
 
@@ -212,7 +147,7 @@ A machine learning application that predicts property prices using structured ho
 
 ## 🔗 Bitespeed Identity Reconciliation
 
-A backend service that reconciles customer identities across multiple contact records.
+A backend service designed to reconcile customer identities across multiple contact records.
 
 ### Tech Stack
 
@@ -220,74 +155,53 @@ A backend service that reconciles customer identities across multiple contact re
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Akash8959&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash8959&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Akash8959&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Akash8959&theme=tokyo-night&hide_border=true&area=true"
-    alt="Akash's GitHub Activity Graph"
-  />
-</p>
-
----
-
 # 🏆 Certifications
 
-* 📊 **Deloitte Data Analytics Job Simulation**
-* 🔐 **Cisco — Introduction to Cyber Security**
-* 📈 **Cisco NetAcad — Data Analytics Essentials**
+* **Deloitte — Data Analytics Job Simulation**
+* **Cisco — Introduction to Cyber Security**
+* **Cisco NetAcad — Data Analytics Essentials**
 
 ---
 
 # 🎯 Current Focus
 
-I'm currently focusing on strengthening my skills in:
+I'm currently improving my skills in:
 
-* ⚛️ Full Stack Development
-* 🐍 Python Backend Development
-* ⚡ FastAPI
-* ⚛️ React & Next.js
-* 🗄️ PostgreSQL & Database Design
-* 🤖 Generative AI
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🧠 LLM Application Development
-* 🐳 Docker & Containerization
-* ☁️ Cloud Deployment
-* 🐧 Linux
+* Full Stack Development
+* Backend Engineering
+* FastAPI
+* React & Next.js
+* PostgreSQL
+* Generative AI
+* Retrieval-Augmented Generation
+* LLM Application Development
+* Docker
+* Linux
+* Cloud Deployment
 
 ---
 
-# 💡 Development Philosophy
+# 🧠 Development Approach
 
-> **Don't just build projects. Build solutions.**
-
-I focus on understanding the problem first, designing the architecture, building the system step-by-step, and making sure the final application is practical and maintainable.
+I believe in understanding the problem before writing the code.
 
 ```text
-Understand → Design → Build → Test → Deploy → Improve
+Understand
+    ↓
+Define Requirements
+    ↓
+Design Architecture
+    ↓
+Build
+    ↓
+Test
+    ↓
+Deploy
+    ↓
+Improve
 ```
+
+My goal is to build software that solves **real-world problems**, rather than simply creating projects for demonstration.
 
 ---
 
@@ -295,37 +209,26 @@ Understand → Design → Build → Test → Deploy → Improve
 
 I'm interested in opportunities related to:
 
-* 💻 Software Development
-* 🌐 Full Stack Development
-* 🤖 AI / ML Engineering
-* 🧠 Generative AI
-* 📊 Data Analytics
-* ☁️ Cloud & Backend Development
+* Software Development
+* Full Stack Development
+* Backend Development
+* AI / ML Engineering
+* Generative AI
+* Data Analytics
+* Cloud & Backend Engineering
 
 ---
 
 # 📫 Connect With Me
 
-<p>
-  <a href="mailto:akashhg1293@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+**Email:** [akashhg1293@gmail.com](mailto:akashhg1293@gmail.com)
 
-  <a href="https://www.linkedin.com/in/akash-h-g-43532a2b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+**LinkedIn:** [Akash H G](https://www.linkedin.com/in/akash-h-g-43532a2b4/)
 
-  <a href="https://github.com/Akash8959">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+**GitHub:** [Akash8959](https://github.com/Akash8959)
 
 ---
 
 <p align="center">
-  <b>🚀 Building. Learning. Improving.</b>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories!
+  <b>🚀 Building • Learning • Improving</b>
 </p>
